@@ -1,6 +1,6 @@
-package HerancaPolimorfismo.Heranca.tests;
+package Heranca.tests;
 
-import HerancaPolimorfismo.Heranca.entities.Empregado;
+import Heranca.entities.Empregado;
 
 public class TestEmpregado {
 

@@ -1,4 +1,4 @@
-package HerancaPolimorfismo.Heranca.entities;
+package Heranca.entities;
 
 public class Vendedor extends Empregado{
     private double valorVendas;

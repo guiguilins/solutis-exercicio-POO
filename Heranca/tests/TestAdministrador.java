@@ -1,6 +1,6 @@
-package HerancaPolimorfismo.Heranca.tests;
+package Heranca.tests;
 
-import HerancaPolimorfismo.Heranca.entities.Administrador;
+import Heranca.entities.Administrador;
 
 public class TestAdministrador {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package HerancaPolimorfismo.Heranca.tests;
+package Heranca.tests;
 
-import HerancaPolimorfismo.Heranca.entities.Fornecedor;
+import Heranca.entities.Fornecedor;
 
 public class TestFornecedor {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package HerancaPolimorfismo.Heranca.tests;
+package Heranca.tests;
 
-import HerancaPolimorfismo.Heranca.entities.Operario;
+import Heranca.entities.Operario;
 
 public class TestOperario {
     public static void main(String[] args) {

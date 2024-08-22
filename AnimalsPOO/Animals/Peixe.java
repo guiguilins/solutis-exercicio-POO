@@ -1,4 +1,4 @@
-package AnimalsPOO.Animals;
+package AnimalsPOO.animals;
 
 import AnimalsPOO.abstracts.AnimalMarinhoAB;
 

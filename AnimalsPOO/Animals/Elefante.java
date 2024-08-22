@@ -1,4 +1,4 @@
-package AnimalsPOO.Animals;
+package AnimalsPOO.animals;
 
 import AnimalsPOO.abstracts.AnimalTerrestreAB;
 
@@ -17,7 +17,6 @@ public class Elefante extends AnimalTerrestreAB {
 
     }
 
-
     public int getQuantidadePercorrida() {
         return quantidadePercorrida;
     }
@@ -29,7 +28,7 @@ public class Elefante extends AnimalTerrestreAB {
     public int getQuantidadeDormida() {
         return quantidadeDormida;
     }
-    
+
     @Override
     public void comer() {
         quantidadeComida += 5;
