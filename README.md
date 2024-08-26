@@ -12,6 +12,7 @@
 ## Herança e Polimorfismo
 ### Esta no package HerancaPolimorfismo
 
-- **Questões 1-5** - Package HerancaPoliAnimal
+- **Questões 1-4** - Package HerancaPoliAnimal
 
+- **Questões 5-11** - Package HerancaPoliEmpresa
 
